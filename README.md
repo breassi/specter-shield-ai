@@ -6,3 +6,8 @@ O **Specter Shield AI** é uma ferramenta que automatiza a criação de soluçõ
 
 - **Linguagem principal:** Python  
 - **Por que da escolha:** IA e Machine Learning são melhor suportados em Python, além de bibliotecas de detecção de fraude e segurança avançada.
+
+## Arquitetura
+
+- **Arquitetura recomendada:** Microservices + Modular + AI Service Layer  
+- **Por que da escolha:** Detecção de fraudes e segurança com IA exige serviços independentes e escaláveis, facilitando pipelines de ML e deploy isolado.
