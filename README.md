@@ -1,1 +1,3 @@
-# specter-shield-ai
+# Specter Shield AI
+
+O **Specter Shield AI** é uma ferramenta que automatiza a criação de soluções avançadas de segurança com inteligência artificial, permitindo gerar rapidamente mecanismos de detecção de ameaças, prevenção de fraudes e proteção proativa para aplicações em .NET, Node.js, Python, Go, Angular, entre outras tecnologias.
